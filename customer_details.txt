@@ -1,0 +1,7 @@
+
+16 amrit 123 NR amrit@gmail.com Male 12/10/2000 siteldevi 9825173216 EL 5 10000
+2 leo 456 NR leo@gmail.com Male 12/10/8000 ktm 9825167895 CL 5 12000
+42 Bruno 789 NR bruno@gmail.com male 12/10/2000 ktm 9825146315 EL 5 1500
+32 Linda 852 NR linda@gmail.com female 14/8/2000 pkr 9825186549 El 6 1800
+49 wiz 741 NR wiz@gmail.com Male 14/05/2000 dharan 9816254954 PL 8 2000
+14 tom 789 NR tom@gmail.com Male 15/03/1999 Parbat 9865473259 HL 6 2200
